@@ -1,0 +1,17 @@
+{
+  "name": "sellico",
+  "version": "0.0.1",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle compile"
+  },
+  "author": "Shad",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.2.0"
+  }
+}
